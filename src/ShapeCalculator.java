@@ -20,6 +20,6 @@ public class ShapeCalculator {
         }
 
 
-        rectangle.setDimentions(10);
+      //  rectangle.setDimentions(10);
     }
 }
